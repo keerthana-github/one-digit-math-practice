@@ -1,7 +1,3 @@
-#Keerthana Manivasakan, M/W 9:30, 4/6/2020
-#Title: Digital Clock functions
-#Part 3a
-
 # function:   horizontal_line
 # input:      a width value (integer) and a single character (string)
 # processing: generates a single horizontal line of the desired size
